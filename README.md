@@ -35,3 +35,15 @@ http://www.bugfree.org.cn
 6. ie6,7,8,9浏览器下载中文名称的附件，名字会是乱码
 7. 安装时，如果数据库名非法，不会给出任何出错信息
 8. 激活Bug下，自定义字段不可编辑
+
+安装过程
+=======
+1. 下载 phpstudy 我的网盘 工具中有
+2. 将其拷贝到phpstudy WWW 路径下
+3. 在bugfee 项目里创建 需要的文件夹
+    3.1 assets
+    3.2 ../BugFile
+    3.3 ./protected/runtime
+4. 点击安装 数据库的 用户名/密码 root/root
+5. 安装后 默认的用户名和密码 admin/123456
+
